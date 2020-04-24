@@ -1,0 +1,43 @@
+body {
+    background-image: url("imagenes/fondo.jpg");
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+
+#titulo {
+    text-align: center;
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 1px solid grey;
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+}
+
+a {
+    color: #fb7e14;
+    text-decoration: none;
+}
+
+.imagenCentrada {
+    border: 3px solid #292929;
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+
+.botones {
+    background-color: #fb7e14;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 8px;
+    border: 3px solid #b95c0a;
+}
+
+#botonDerecho {
+    float: right;
+}
