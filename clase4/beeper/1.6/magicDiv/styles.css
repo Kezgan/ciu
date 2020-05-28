@@ -1,0 +1,12 @@
+div {
+    border-style: dotted;
+    opacity: 0;
+}
+
+img {
+    width: 500px;
+}
+
+.ocultar {
+    display: none;
+}
